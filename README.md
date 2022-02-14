@@ -1,16 +1,13 @@
-### Hi there 👋
+### Hi there hello, it's me, Ocawesome101
 
-<!--
-**Ocawesome101/Ocawesome101** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+i am a hobbyist programmer (mostly lua - i'm quite proud of [TLE](https://github.com/ocawesome101/tle)).
 
-Here are some ideas to get you started:
+i'm good enough at piano [and sometimes i compose things](https://www.youtube.com/watch?v=i2fW_Gae4kQ).
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 👨‍🦱 he/him
+- 🐱 cat person
+- 💻 hobbyist programmer
+- 🐧 linux user ("i use arch btw" is true for me but is an overused meme)
+- 7️⃣6️⃣ proud owner of a system76 pang11
+- main developer of the Cynosure 2 kernel for OpenComputers
+- i program for OpenComputers way too much
